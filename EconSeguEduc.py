@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: EmiNu5
 En una zona del país, se realizó una encuesta de opinión a 1000 personas sobre 3 (tres)
 categorías: Economía, Educación y Seguridad, y otras sub-categorías especificadas
 sólo para Economía. Los datos se recolectaron en las siguientes estructuras:
