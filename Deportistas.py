@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-@author: EmiNu5
 En una comunidad de 100 deportistas se sabe que 30 de ellos entrenan fútbol, 50 entrenan squash 
 y 60 entrenan tenis. 22 entrenan tenis y fútbol, 30 entrenan squash y tenis y 15 entrenan squash y fútbol. 
 Si 10 deportistas entrenan los tres deportes 
